@@ -1,0 +1,11 @@
+/Users/joeywalter/Documents/cSharpApps/calculaterApp/bin/Debug/netcoreapp2.2/calculaterApp.deps.json
+/Users/joeywalter/Documents/cSharpApps/calculaterApp/bin/Debug/netcoreapp2.2/calculaterApp.runtimeconfig.json
+/Users/joeywalter/Documents/cSharpApps/calculaterApp/bin/Debug/netcoreapp2.2/calculaterApp.runtimeconfig.dev.json
+/Users/joeywalter/Documents/cSharpApps/calculaterApp/bin/Debug/netcoreapp2.2/calculaterApp.dll
+/Users/joeywalter/Documents/cSharpApps/calculaterApp/bin/Debug/netcoreapp2.2/calculaterApp.pdb
+/Users/joeywalter/Documents/cSharpApps/calculaterApp/obj/Debug/netcoreapp2.2/calculaterApp.csprojAssemblyReference.cache
+/Users/joeywalter/Documents/cSharpApps/calculaterApp/obj/Debug/netcoreapp2.2/calculaterApp.csproj.CoreCompileInputs.cache
+/Users/joeywalter/Documents/cSharpApps/calculaterApp/obj/Debug/netcoreapp2.2/calculaterApp.AssemblyInfoInputs.cache
+/Users/joeywalter/Documents/cSharpApps/calculaterApp/obj/Debug/netcoreapp2.2/calculaterApp.AssemblyInfo.cs
+/Users/joeywalter/Documents/cSharpApps/calculaterApp/obj/Debug/netcoreapp2.2/calculaterApp.dll
+/Users/joeywalter/Documents/cSharpApps/calculaterApp/obj/Debug/netcoreapp2.2/calculaterApp.pdb
